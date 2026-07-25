@@ -86,4 +86,3 @@ const COMMAND = {
   tags: "downloader",
   limit: true
 };
-ChatGPT Image 26 يوليو 2026، 02_02_30 ص.pnghttps://github.com/Taib3a/videy.co/blob/7ce33fe1688787e9cc18d512bff901b975fc0796/ChatGPT%20Image%2026%20%D9%8A%D9%88%D9%84%D9%8A%D9%88%202026%D8%8C%2002_02_30%20%D8%B5.png
