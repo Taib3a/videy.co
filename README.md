@@ -1,4 +1,4 @@
-https://github.com/Taib3a/videy.co/blob/f5baa64ac66bee118347376eb070fe2cdaf13ece/ChatGPT%20Image%2026%20%D9%8A%D9%88%D9%84%D9%8A%D9%88%202026%D8%8C%2002_02_30%20%D8%B5.png
+
 / * 📂 أدوات-لرابط14.js
  * 👤 Taib<
  * 🔥 موقع: https://videy.co
