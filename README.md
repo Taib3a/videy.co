@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="ChatGPT%20Image%2026%20يوليو%202026،%2002_02_30%20ص.png" alt="شعار المشروع" width="500">
+</p>
 / * 📂 أدوات-لرابط14.js
  * 👤 Taib<
  * 🔥 موقع: https://videy.co
